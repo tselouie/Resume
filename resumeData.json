@@ -54,6 +54,23 @@
     ],
     "work": [
       {
+        "company": "TDoc.ca",
+        "img": "./images/assets/pplus.jpg",
+        "title": "Junior Automation Developer (Co-op) ",
+        "years": "Jan 2020 - Present",
+        "description": [
+
+        ]
+      },{
+        "company": "BoardgameGuru",
+        "img": "./images/assets/pplus.jpg",
+        "title": "Junior Automation Developer (Co-op) ",
+        "years": "Jan 2019 - May 2019",
+        "description": [
+          "Created and maintained Jobs and Pipelines"
+        ]
+      },
+      {
         "company": "Portfolio+",
         "img": "./images/assets/pplus.jpg",
         "title": "Junior Automation Developer (Co-op) ",
