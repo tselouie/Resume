@@ -38,7 +38,7 @@ class App extends Component {
     });
   }
 
-  UNSAFE_componentWillMount() {
+  UNSAFE_componentDidMount() {
     this.getResumeData();
   }
 
