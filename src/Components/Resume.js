@@ -38,7 +38,7 @@ class Resume extends Component {
         return (
           <div key={work.company}>
             <h3>
-              <img src={work.img} alt="nada" style={{ width: "25px", height: "100%" }} />
+              <img src={work.img} alt="⚅" style={{ width: "25px", height: "100%" }} />
               {work.company}
             </h3>
             <p className="info">

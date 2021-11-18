@@ -54,6 +54,26 @@
     ],
     "work": [
       {
+        "company": "TDoc.ca",
+        "img": "./images/assets/tdocimage.PNG",
+        "title": "AWS Cloud Developer (Contract)",
+        "years": "Jan 2020 - Present",
+        "description": [
+          "Utilized AWS Cloudwatch to log AWS Lambda functions",
+          "Changed AWS CloudFormation templates to enable serverless resource permissions.",
+          "Coded Script to verify and  batch insert over 7000 records into DynamoDB",
+          "Refactored login form to use Formik/Yup instead of kendo/Joi"
+        ]
+      },{
+        "company": "BoardgameGuru",
+        "img": "./images/assets/dice.png",
+        "title": "Developer",
+        "years": "Jan 2019 - May 2019",
+        "description": [
+          "Created and maintained Jobs and Pipelines"
+        ]
+      },
+      {
         "company": "Portfolio+",
         "img": "./images/assets/pplus.jpg",
         "title": "Junior Automation Developer (Co-op) ",
@@ -72,7 +92,7 @@
         "company": "First Student",
         "img": "./images/assets/fs.png",
         "title": "Data Clerk",
-        "years": "February 2015 - April 2015",
+        "years": "Apr 2015 - February 2015",
         "description": [
           "Surpassed individual goals by entering over 50 booking/credit entries (CHASE Paymentech) daily",
           "Discovered bypass in booking system which increased team output speed"
@@ -168,7 +188,7 @@
         "title": "Eez Commerce",
         "category": "A Commerce platform project where someone could easily answer a few questions and the website would be made using templates. With the addition to manage their products.",
         "image": "eezcommerceTN.jpg",
-        "url": "http://eez.cataldo.ca/"
+        "url": "https://eezcommerce.uc.r.appspot.com/"
       }
     ]
   }
