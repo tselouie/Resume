@@ -70,7 +70,8 @@
         "title": "Developer",
         "years": "Jan 2019 - May 2019",
         "description": [
-          "Created and maintained Jobs and Pipelines"
+          "Developed trading system to enable users to trade boardgames",
+          "Created all CRUD operations for MongoDB"
         ]
       },
       {
